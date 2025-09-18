@@ -1,0 +1,2 @@
+# VPC-with-Public-Private-Subnet-in-Production-Environment
+Designed and implemented a VPC with public and private subnets across two availability zones, resulting in improved network security and scalability. Configured auto-scaling group to launch and terminate servers in private subnets with traffic routed from load balancers in public subnets achieving 99% uptime and 30% reduction in infrastructure cost
